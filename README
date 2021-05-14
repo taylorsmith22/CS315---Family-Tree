@@ -1,0 +1,19 @@
+Project Description:
+This project is intended to act as a working family tree.
+The program reads data in from a text.
+The program uses the commands entered into the text file to either create a family or relate two people.
+The program successfully creates families and uses Union-Find to determine if two people are related.
+My program cannot determine the shortest path between the two people but I did implement the queue routine needed for breadth first search and most of the breadth search first implementation is done.
+
+Expected Input:
+The program expects a text file as input.
+The text file should include a list of commands with only one command on each line.
+The only commands that should be entered are Family and Relate.
+The Family command should include a family number and a husband and wife and a number for each of them.
+The Relate should be entered with two numbers beside it.
+
+Expected Output:
+The program should print out the family that is entered and if the relate command was entered it should say if the two people are related or not/
+
+How to compile:
+To compile and run: make run

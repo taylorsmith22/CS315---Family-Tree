@@ -1,0 +1,22 @@
+Family 1 Husband 1 Wife 2 Child 3
+Family 2 Husband 5 Wife 4 Child 6
+Family 3 Husband 3 Wife 6 Child 10
+Relate 1 5
+Relate 1 10
+Family 99 Husband 50 Wife 60 Child 40 Child 39 Child 38
+Family 80 Husband 40 Wife 20 Child 70
+Family 68 Husband 30 Wife 38 Child 99 Child 98 Child 97
+Family 36 Husband 12 Wife 40 
+Family 21 Husband 21 Wife 44 Child 12
+Relate 21 5
+Relate 99 70
+Family 45 Husband 70 Wife 10 Child 81
+Relate 1 70
+Relate 3 81
+Family 4 Husband 0 Wife 0 Child 22 Child 23
+Family 5 Husband 22 Wife 38 Child 49
+Family 6 Husband 49 Wife 78 Child 37 Child 26 Child 52 Child 13
+Family 7 Husband 13 Wife 0 Child 65
+Relate 22 65
+Relate 23 13
+Relate 13 49

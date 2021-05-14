@@ -1,0 +1,22 @@
+Family: 1 Husband: 1 Wife: 2 Child: 3
+Family: 2 Husband: 5 Wife: 4 Child: 6
+Family: 3 Husband: 3 Wife: 6 Child: 10
+Person 1 and Person 5 are related
+Person 1 and Person 10 are related
+Family: 99 Husband: 50 Wife: 60 Child: 40 Child: 39 Child: 38
+Family: 80 Husband: 40 Wife: 20 Child: 70
+Family: 68 Husband: 30 Wife: 38 Child: 99 Child: 98 Child: 97
+Person number 40 cannot have multiple marriages
+Family: 21 Husband: 21 Wife: 44 Child: 12
+Person 21 and Person 5 are not related
+Person 99 and Person 70 are related
+Family: 45 Husband: 70 Wife: 10 Child: 81
+Person 1 and Person 70 are related
+Person 3 and Person 81 are related
+Family: 4 Husband: 0  Wife: 0  Child: 22 Child: 23
+Person number 38 cannot have multiple marriages
+Family: 6 Husband: 49 Wife: 78 Child: 37 Child: 26 Child: 52 Child: 13
+Family: 7 Husband: 13 Wife: 0  Child: 65
+Person 22 and Person 65 are not related
+Person 23 and Person 13 are not related
+Person 13 and Person 49 are related
